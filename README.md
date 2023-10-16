@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Lutfullah</h1>
-<h3 align="center">A passionate frontend developer from Turkiye</h3>
+<h3 align="center">A passionate frontend developer in Turkiye</h3>
 
-- 🔭 I’m currently working on several projects
-- 🌱 I’m currently learning vue.js
+- 🔭 I’m currently working on and managing several projects
+- 🌱 Currently learning graphQL
 - 🤔 I can give software development service in angular, angular.js, react.js
 - 📫 How to reach me: <a href="https://www.ludeveloper.com" target="_blank">ludeveloper.com</a> and <a href="https://www.linkedin.com/in/ludeveloper" target="_blank">Linkedin/@Ludeveloper</a>
 
