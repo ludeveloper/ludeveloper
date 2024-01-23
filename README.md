@@ -5,7 +5,7 @@
 - 🌱 Currently learning graphQL
 - 🤔 I can give software development service in angular, angular.js, react.js
 - 📫 Please reach me: <a href="https://www.ludeveloper.com" target="_blank">ludeveloper.com</a> and <a href="https://www.linkedin.com/in/ludeveloper" target="_blank">Linkedin/@Ludeveloper</a>
-- 🌐 My social media is: <a href="https://www.instagram.com/ludeveloper" target="_blank">instagram.com/ludeveloper</a>
+- 🌐 My social media is: ... no I don't use social media anymore!
 
 
 
