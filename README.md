@@ -5,11 +5,9 @@
 - 🌱 Currently learning graphQL
 - 🤔 I can give software development service in angular, angular.js, react.js
 - 📫 Please reach me at <a href="https://www.linkedin.com/in/ludeveloper" target="_blank">Linkedin/@Ludeveloper</a>
+- And here's my personal web site: <a href="https://www.lutfullah.com" target="_blank">Lutfullah.com</a>
 - 🌐 My social media is: ... no I don't use social media anymore!
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ludeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ludeveloper" /> </p>
+- 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ludeveloper" alt="ludeveloper" /></a> </p>
 
